@@ -1,7 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.linkedin.com/in/arshpreet-singh-167771149/">
+  <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
+</a>
 
-**PCesteban/PCesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 
 Here are some ideas to get you started:
 
@@ -17,14 +20,7 @@ Here are some ideas to get you started:
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.linkedin.com/in/arshpreet-singh-167771149/">
-  <img align="left" alt="Arshpreet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
+---
 
 Hi, I'm [Arshpreet Singh Khangura](https://arshpreetsingh.github.io/), a Full Stack Developer 🚀 from India, currently, I'm a DataOPS  at 👨🏽‍💼[Blackrock](https://www.blackrock.com/corporate/global-directory).
 
