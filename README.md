@@ -13,7 +13,7 @@ I'm Esteban 🚀
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning and contributing to the field of Quantum Computing
 - 👯 I’m looking to collaborate on research projects
-- ⚡ Fun fact: I'm a musician :guitar: 
+- ⚡ Fun fact: I'm also a musician :guitar: 
 
 ---
 
