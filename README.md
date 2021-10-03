@@ -1,6 +1,3 @@
-
-
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **I'm Esteban** :nerd_face:
@@ -9,13 +6,14 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Esteban-Payares-2)
 ![](https://visitor-badge.glitch.me/badge?page_id=pcesteban-visitors)
 
+<!---
 **About me:**
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning and contributing to the field of Quantum Computing
 - 🚀 I’m looking to collaborate on research projects
 - ⚡ Fun fact: I'm also a musician :guitar: 
-
+-->
 ---
 
 **Languages and Tools:**  
