@@ -15,6 +15,7 @@
 - ⚡ Fun fact: I'm also a musician :guitar: 
 -->
 ---
+<p align="center">
 
 **Languages and Tools:**  
 
@@ -33,6 +34,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+</p>
 
 <summary>📈 My GitHub Stats</summary>
 
