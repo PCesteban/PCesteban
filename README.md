@@ -47,5 +47,5 @@ Hi, I'm [Arshpreet Singh Khangura](https://arshpreetsingh.github.io/), a Full St
 
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PCesteban&count_private=true&show_icons=true&theme=nord" alt="PCesteban" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PCesteban&count_private=true&show_icons=true&theme=algolia" alt="PCesteban" />
 
