@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 
-**I'm Esteban** :nerd_face:
+**Hi, I'm Esteban** :nerd_face:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-pc/?locale=en_US)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Esteban-Payares-2)
