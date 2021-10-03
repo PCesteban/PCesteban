@@ -25,6 +25,7 @@ Hi, I'm Esteban Payares 🚀
 - 📝[Resume](https://github.com/arshpreetsingh/resume_latex_xetex/blob/master/cv.pdf)
 
 **Languages and Tools:**  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
