@@ -15,9 +15,8 @@
 - ⚡ Fun fact: I'm also a musician :guitar: 
 -->
 ---
-<p align="center">
 
-**Languages and Tools:**  
+<h2 align="center"> Languages and Tools: 🔭 </h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pennylane](https://img.shields.io/badge/Pennylane-%23307b7e.svg?style=for-the-badge&logo=Pennylane&logoColor=white)
@@ -34,8 +33,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-</p>
 
 <summary>📈 My GitHub Stats</summary>
 
