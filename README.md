@@ -16,7 +16,7 @@
 -->
 ---
 
-<h2 align="center"> Languages and Tools: 🔭 </h2>
+<h2 align="center"> 🔭 Languages and Tools  </h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pennylane](https://img.shields.io/badge/Pennylane-%23307b7e.svg?style=for-the-badge&logo=Pennylane&logoColor=white)
