@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning and contributing to the field of Quantum Computing
 - 🚀 I’m looking to collaborate on research projects
 - ⚡ Fun fact: I'm also a musician :guitar: 
--->
 ---
 
 <h2 align="center"> 🔭 Languages and Tools  </h2>
@@ -34,6 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+-->
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PCesteban&count_private=true&show_icons=true&theme=algolia" alt="PCesteban" />
