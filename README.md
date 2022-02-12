@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-pc/?locale=en_US)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Esteban-Payares-2)
+
 <!---
 ![](https://visitor-badge.glitch.me/badge?page_id=pcesteban-visitors)
 
@@ -13,7 +14,7 @@
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning and contributing to the field of Quantum Computing
 - 🚀 I’m looking to collaborate on research projects
-- ⚡ Fun fact: I'm also a musician :guitar: 
+- ⚡ Fun fact: I'm also a musician :guitar:
 ---
 
 <h2 align="center"> 🔭 Languages and Tools  </h2>
@@ -36,9 +37,11 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 -->
+
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PCesteban&count_private=true&show_icons=true&theme=algolia" alt="PCesteban" />
 
 ---
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
