@@ -36,12 +36,12 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
--->
+
 
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PCesteban&count_private=true&show_icons=true&theme=algolia" alt="PCesteban" />
-
+-->
 ---
 
 <h2  align="center">💻 Check out my repos ⬇️ </h2>
